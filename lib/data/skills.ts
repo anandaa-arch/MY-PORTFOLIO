@@ -1,0 +1,28 @@
+export const skills = {
+  languages: ["C++", "Java", "JavaScript"],
+  frontend: ["React", "HTML", "CSS"],
+  backend: ["Node.js", "MongoDB","Express"],
+  devops: ["Docker"],
+  tooling: [
+    "GitHub",
+    "Nmap",
+    "VAPT",
+    "Metasploit",
+    "Burp Suite",
+    "Kali Linux",
+    "OWASP Top 10",
+  ],
+  professional: [
+    "Business Process Alignment",
+    "Business Process Analysis",
+    "Communication",
+    "Critical Thinking",
+    "IAM Design",
+    "IAM Evaluation",
+    "IAM Fundamentals",
+    "Problem Solving",
+    "Project Planning",
+    "Solution Design",
+    "Strategy Assessment",
+  ],
+};

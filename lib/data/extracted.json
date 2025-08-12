@@ -1,0 +1,138 @@
+{
+  "profile": {
+    "name": "Anand Raj",
+    "title": "Full Stack Developer",
+    "email": "workmahto24@gmail.com",
+    "phone": "+91 9162378361",
+    "location": "Innovative tech enthusiast skilled in Full-stack development, AI and cybersecurity. I built Varnanetra, an AI-powered",
+    "website": "https://tryhackme.com/r/p/panthers1",
+    "socials": {
+      "github": "",
+      "linkedin": "",
+      "twitter": ""
+    },
+    "about": ""
+  },
+  "skills": {
+    "languages": [
+      "C++",
+      "Java",
+      "JavaScript",
+      "CSS JavaScript"
+    ],
+    "frontend": [
+      "React"
+    ],
+    "backend": [
+      "Node.js",
+      "Mongodb"
+    ],
+    "devops": [
+      "Docker",
+      "Social Media Head(MCCIA’s Cyber Security Club)",
+      "Artificial Intelligence & Data Science"
+    ],
+    "tooling": [
+      "Languages",
+      "Tools:",
+      "Soft Skills:",
+      "Framework",
+      "&Standards",
+      "Web",
+      "Technology",
+      "Nmap",
+      "Metasploit",
+      "Burp-Suite",
+      "GitHub",
+      "Kali Linux",
+      "WAPT",
+      "VAPT",
+      "Problem-Solving",
+      "Critical Thinking",
+      "Teamwork",
+      "Attention to Detail",
+      "OWASP Top 10",
+      "NIST",
+      "Html",
+      "Additional Information",
+      "2024 -present",
+      "Jan’25-present",
+      "support Team Member (ISTE)",
+      "AUG",
+      "2024-present",
+      "TryHackme:- https:",
+      "tryhackme.com",
+      "panthers1",
+      "Hackthebox(CTF player):- https:",
+      "ctf.hackthebox.com",
+      "event",
+      "1434",
+      "ANAND RAJ",
+      "rd",
+      "year B.E.",
+      "MMCOE",
+      "PUNE",
+      "Phone : +91 9162378361",
+      "Email : workmahto24@gmail.com",
+      "Pune",
+      "Maharashtra",
+      "INDIA – 411052"
+    ]
+  },
+  "projects": [
+    {
+      "slug": "feb",
+      "title": "Feb",
+      "description": "Feb - june’24",
+      "features": [],
+      "tags": [
+        "Project"
+      ]
+    },
+    {
+      "slug": "aug",
+      "title": "Aug",
+      "description": "Aug - Dec’24",
+      "features": [],
+      "tags": [
+        "Project"
+      ]
+    },
+    {
+      "slug": "jan",
+      "title": "Jan",
+      "description": "Jan - May’ 25",
+      "features": [],
+      "tags": [
+        "Project"
+      ]
+    },
+    {
+      "slug": "april-25",
+      "title": "April ’25",
+      "description": "April ’25",
+      "features": [],
+      "tags": [
+        "Project"
+      ]
+    },
+    {
+      "slug": "object-detection-tool-b-e-project-2",
+      "title": "Object Detection Tool (B.E. Project, 2",
+      "description": "Object Detection Tool (B.E. Project, 2",
+      "features": [],
+      "tags": [
+        "Project"
+      ]
+    },
+    {
+      "slug": "semester",
+      "title": "Semester)",
+      "description": "Semester)",
+      "features": [],
+      "tags": [
+        "Project"
+      ]
+    }
+  ]
+}

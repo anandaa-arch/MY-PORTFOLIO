@@ -1,0 +1,7 @@
+export const skills = {
+  languages: ["TypeScript", "JavaScript", "Python", "SQL"],
+  frontend: ["React", "Next.js", "Tailwind", "Framer Motion", "Redux Toolkit"],
+  backend: ["Node.js", "Express", "FastAPI", "Prisma", "PostgreSQL"],
+  devops: ["Docker", "GitHub Actions", "Vercel", "AWS"],
+  tooling: ["ESLint", "Prettier", "Vitest", "Playwright"],
+};

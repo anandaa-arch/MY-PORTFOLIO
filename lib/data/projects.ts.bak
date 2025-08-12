@@ -1,0 +1,33 @@
+import type { Project } from "@/components/projects/project-card";
+
+export const projects: Project[] = [
+  {
+    slug: "workout-log",
+    title: "Workout Log",
+    description: "Fitness tracker for sets, reps, weights, and progress.",
+    features: [
+      "Routine builder with drag-and-drop",
+      "Charts for volume, PRs, and weekly trends",
+      "Offline-first PWA with sync"
+    ],
+    tags: ["Next.js", "Prisma", "PostgreSQL", "NextAuth", "Tailwind", "PWA"],
+    image: "/projects/workout-log.png",
+    repo: "https://github.com/your-github/workout-log",
+    demo: "https://workout-log.example.com"
+  },
+  {
+    slug: "varnanetra",
+    title: "Varnanetra",
+    description: "AI-powered language learning model and app.",
+    features: [
+      "Speech-to-text with Whisper",
+      "Personalized drills and feedback",
+      "Spaced repetition across skills",
+      "Multi-language support"
+    ],
+    tags: ["Python", "PyTorch", "FastAPI", "Whisper", "React", "Tailwind"],
+    image: "/projects/varnanetra.png",
+    repo: "https://github.com/your-github/varnanetra",
+    demo: "https://varnanetra.example.com"
+  }
+];
