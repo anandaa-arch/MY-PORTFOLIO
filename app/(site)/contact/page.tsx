@@ -36,7 +36,7 @@ export default function ContactPage() {
             <ul className="space-x-3">
               <li className="inline"><a href={profile.socials.github} className="text-accent" target="_blank" rel="noreferrer">GitHub</a></li>
               <li className="inline"><a href={profile.socials.linkedin} className="text-accent" target="_blank" rel="noreferrer">LinkedIn</a></li>
-              <li className="inline"><a href={profile.socials.twitter} className="text-accent" target="_blank" rel="noreferrer">X/Twitter</a></li>
+              //<li className="inline"><a href={profile.socials.twitter} className="text-accent" target="_blank" rel="noreferrer">X/Twitter</a></li>
             </ul>
           </div>
         </div>
@@ -44,3 +44,9 @@ export default function ContactPage() {
     </Section>
   );
 }
+
+
+
+
+
+

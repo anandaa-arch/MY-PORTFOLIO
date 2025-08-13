@@ -22,7 +22,7 @@ export const education: Education[] = [
     year: "2027",
     period: "2023 - 2027",
     current: true,
-    logo: "/institutions/mmcoe-logo.png",
+    logo: "/institutions/college.jpeg",
     description: "Currently pursuing 3rd year B.E. in AI & Data Science with focus on machine learning, computer vision, and cybersecurity applications.",
   },
 ];

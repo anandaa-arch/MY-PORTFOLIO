@@ -13,3 +13,4 @@ export const profile = {
   about:
     "Innovative tech enthusiast skilled in full‑stack development, AI, and cybersecurity. Built Varnanetra, an AI‑powered assistive vision project, and hands‑on with tools like Nmap, Metasploit, and Burp Suite.",
 };
+
